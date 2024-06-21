@@ -7,6 +7,7 @@
 ## 개발 내용
 - 딥보이스 탐지 기술 개발
   - 실제 음성과 스푸핑 음성 구분
+  - Resnet 모델
 ## 시연 영상
 <a href="https://www.youtube.com/watch?v=76D2DsDsIkc">보이스 디펜더 시연 영상</a>
 <br/><br/>
